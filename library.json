@@ -1,0 +1,14 @@
+{
+  "name": "MSP430-Energia-Xively",
+  "keywords": "xively",
+  "description": "A library for Energia to make it easier to talk to Xively",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/zlalanne/xively_energia.git"
+  },
+  "dependencies":
+  [
+    "MSP430-Energia-HttpClient"
+  ]  
+}
